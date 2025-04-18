@@ -37,5 +37,6 @@ The dataset used is the **Facial Emotion Recognition (FER) Dataset** from Kaggle
 
 Here’s a sample output from the CNN model after training on the FER dataset:
 
-![Model Prediction Output](![cnn-preview](https://github.com/user-attachments/assets/fe5348a6-713a-421f-acf6-9b05695dcf41)
+![Model Prediction Output](![cnn-preview](https://github.com/user-attachments/assets/d6519389-24a5-42b5-8662-9b1db5339082)
+)
 )
